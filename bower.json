@@ -1,7 +1,7 @@
 {
-    "name": "rrule",
+    "name": "rrule2",
     "description": "JavaScript library for working with recurrence rules for calendar dates.",
-    "homepage": "http://jkbrzt.github.io/rrule/",
+    "homepage": "https://github.com/fatshotty/rrule",
     "keywords": [
         "dates",
         "recurrences",
@@ -11,10 +11,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git://github.com/jkbrzt/rrule.git"
+        "url": "git://github.com/fatshotty/rrule.git"
     },
 
-    "version": "2.1.0",
+    "version": "3.1.0",
     "authors": [
         {
             "name": "Jakub Roztočil",
@@ -22,6 +22,10 @@
         },
         {
             "name": "Lars Schöning"
+        },
+        {
+            "name": "fatshotty",
+            "homepage": "http://www.fatshotty.net"
         }
     ],
     "main": "lib/rrule.js",
