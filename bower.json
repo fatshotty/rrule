@@ -14,7 +14,7 @@
         "url": "git://github.com/fatshotty/rrule.git"
     },
 
-    "version": "3.1.0",
+    "version": "3.0.0",
     "authors": [
         {
             "name": "Jakub Roztočil",
@@ -28,7 +28,10 @@
             "homepage": "http://www.fatshotty.net"
         }
     ],
-    "main": "lib/rrule.js",
+    "main": [
+        "lib/rrule.js",
+        "lib/nlp.js",
+    ],
     "ignore": [
         "**/.*",
         "node_modules",
