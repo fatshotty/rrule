@@ -30,7 +30,7 @@
     ],
     "main": [
         "lib/rrule.js",
-        "lib/nlp.js",
+        "lib/nlp.js"
     ],
     "ignore": [
         "**/.*",
